@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodgath</h1>
 <h3 align="center">Some remote serial web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodgath&style=flat-square&color=800000&label=PROFILE+VIEWS" alt="rodgath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodgath&style=flat-square&color=brightgreen&label=PROFILE+VIEWS" alt="rodgath" /> </p>
 
 - ⚡ Fun fact **Simplicity over Sophistication any day.**
 
