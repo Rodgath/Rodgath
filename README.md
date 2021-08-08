@@ -1,5 +1,32 @@
 <h1 align="center">Hi 👋, I'm Rodgath</h1>
 <h3 align="center">A full stack web developer.</h3>
+............-------------------------.....--------
+..................................................
+..................................................
+`.`.````````......:/+oyyhhyyyso/-.................
+``````````````-+yhdmmmmmmmmmmmmmdho-````````.```..
+`````````````.hmmmmmmmmmmmmmmmmmmmmdo. ```````````
+`````````````-dddhyhmmmmmmmmmmmmmmmmmh.  `````````
+``````````````++//:/ydmmmmmmmmmmmmmmmmh.  ````````
+`````````````://::::+osshhddmmmmNmNmmmms `````````
+`````````````////:-:://oosyyhmmmmmNNNmmh  `  `````
+````````````.+///:::-:://o+yyhddmdmNNNNh//::://+++
+:..``````````so//+/::-://///o++ydmmNNNNhyyyyyyyyyy
+++/++/+o+//-.:syo+/::::/:-:s//.ohmmNNNdyyyyyyyyhhy
+hhhyhhhhyyy/--:/::::::::--:o-::symmNNmyyyyhyhhhhhh
+ssosyyyyyyyo/::::::::::::::--+s+odmNNdyyhhhhhhhhhh
+sooooosssssyo///:::::::://+oo/://ohNmhhhhhhhyyhyhh
+ssossossssss+s+///::::///+++/:::/+smdyyyyhhhhhhhhh
+sssssoysoo++o+oo+++++++ooo+/:::://oyy+++osossyyyyy
+sssssysssssoo+++ossssyyyo+/:::::://++++s+++++sssyy
+o+ooooossoooshddmdhhhhyyo+/::-::::::/shmhsooosoooo
+osossoooyssssyhddsoshmyo+/:::---:/ohdmmmmmdyssosoo
+ysyyyyssyssssssoosymNNdo//::::/shmmmmmmmmmmmmdyssy
+ssosyysyhssysysyhmmmmmmhyssyhdmmmmmmmmmmmmmmmmmmdd
+soossyssyssssyyymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+yyosshyossyyyhhdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ssysshyoyyyhhsdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNN
+
 <!--
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rodgath&style=flat-square&color=brightgreen&label=PROFILE+VIEWS" alt="rodgath" /></p>
 
