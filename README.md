@@ -1,4 +1,4 @@
-```
+```yaml
 
                    ▄████████  ▄██████▄  ████████▄     ▄██████▄     ▄████████     ███        ▄█    █▄    
                   ███    ███ ███    ███ ███   ▀███   ███    ███   ███    ███ ▀█████████▄   ███    ███   
@@ -14,10 +14,51 @@
                         ┌─┐┬ ┬┬  ┬    ┌─┐┌┬┐┌─┐┌─┐┬┌─  ┬ ┬┌─┐┌┐   ┌┬┐┌─┐┬  ┬┌─┐┬  ┌─┐┌─┐┌─┐┬─┐
                         ├┤ │ ││  │    └─┐ │ ├─┤│  ├┴┐  │││├┤ ├┴┐   ││├┤ └┐┌┘├┤ │  │ │├─┘├┤ ├┬┘
                         └  └─┘┴─┘┴─┘  └─┘ ┴ ┴ ┴└─┘┴ ┴  └┴┘└─┘└─┘  ─┴┘└─┘ └┘ └─┘┴─┘└─┘┴  └─┘┴└─
+                        
+                        
+                        
+                                       ##########################################
+                                       ####                                  ####
+                                       ####        Hi 👋, I'm Rodgath        ####
+                                       ####                                  ####
+                                       ##########################################
+                                       
+                                                 Welcome to my profile.
+                                                 
+                                       ##########################################
+                                       
+                                       
+                                       
+                                            +-+-+ +-+-+-+-+-+ +-+ +-+-+-+-+
+                                            |M|y| |S|t|a|c|k| |&| |G|e|a|r|
+                                            +-+-+ +-+-+-+-+-+ +-+ +-+-+-+-+ 
+                                          
+                        
+                      Front-end:      HTML5, CSS3, SCSS, Less, JavaScript(ES5/ES6), TypeScript, 
+                                      jQuery, React, Vue, Svelt, NextJS, Webpack, Gulp, AJAX, 
+                                      Bootstrap, MaterialUI, Tailwind
+                                      ----------------------------------------------------------
+                      Back-end:       PHP, NodeJS, ExpressJS, npm, Composer, RESTful API, 
+                                      OAuth API, JWT, GraphQL, PassportJS
+                                      ----------------------------------------------------------
+                      Database:       MySQL, SQLite, MongoDB
+                                      ----------------------------------------------------------
+                      DevOps:         CI, CD, Git, Travis CI, CircleCI, GitHub Actions, Docker, 
+                                      Kubernetes, AWS, NGINX, Apache, TDD(Mocha, PHPUnit)
+                                      ----------------------------------------------------------
+                      Dev/Design:     VSCode, Lunacy, Photoshop, Figma
+                                      ----------------------------------------------------------
+                      Connect:        Trello, ClickUp, Slack
+                                      ----------------------------------------------------------
+                      Frameworks/CMS: Twig, Laravel, Gatsby, Strapi, Sapper, WordPress, OpenCart
+                                      ----------------------------------------------------------
+                                      
+                                      
+                                      
 ```
 
 
-
+<!--
 <h1 align="center">Hi 👋, I'm Rodgath</h1>
 <h3 align="center">Welcome to my profile.</h3>
 
@@ -26,7 +67,7 @@
 
 
 
-<!--
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rodgath&style=flat-square&color=brightgreen&label=PROFILE+VIEWS" alt="rodgath" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=rodgath&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" alt="rodgath" />
