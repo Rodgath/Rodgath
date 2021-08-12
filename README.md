@@ -43,7 +43,7 @@
                                       ----------------------------------------------------------
                       Database:       MySQL, SQLite, MongoDB
                                       ----------------------------------------------------------
-                      DevOps:         CI, CD, Git, Travis CI, CircleCI, GitHub Actions, Docker, 
+                      DevOps:         CI/CD, Git, Travis CI, CircleCI, GitHub Actions, Docker, 
                                       Kubernetes, AWS, NGINX, Apache, TDD(Mocha, PHPUnit)
                                       ----------------------------------------------------------
                       Dev/Design:     VSCode, Lunacy, Photoshop, Figma
@@ -51,6 +51,10 @@
                       Connect:        Trello, ClickUp, Slack
                                       ----------------------------------------------------------
                       Frameworks/CMS: Twig, Laravel, Gatsby, Strapi, Sapper, WordPress, OpenCart
+                                      ----------------------------------------------------------
+                      Hobbies:        Coding(Building Stuff), Movies, Thinking, Reading, Gaming
+                                      ----------------------------------------------------------
+                      Near Future:    I plan to learn Kotlin & Swift
                                       ----------------------------------------------------------
                                       
                                       
