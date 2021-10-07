@@ -36,7 +36,7 @@
                                             
                       Front-end:      HTML5, CSS3, SCSS, Less, PostCSS, JavaScript, TypeScript, 
                                       jQuery, React, Vue, Svelt, NextJS, Webpack, Gulp, AJAX, 
-                                      Bootstrap, MaterialUI, Tailwind
+                                      Bootstrap, MaterialUI, Tailwind, Bulma
                                       ----------------------------------------------------------
                       Back-end:       PHP, NodeJS, ExpressJS, npm, Composer, RESTful API, 
                                       OAuth API, JWT, GraphQL, PassportJS
