@@ -34,7 +34,7 @@
                                             +-+-+ +-+-+-+-+-+ +-+ +-+-+-+-+
                                             
                                             
-                      Front-end:      HTML5, CSS3, SCSS, Less, JavaScript(ES5/ES6), TypeScript, 
+                      Front-end:      HTML5, CSS3, SCSS, Less, PostCSS, JavaScript, TypeScript, 
                                       jQuery, React, Vue, Svelt, NextJS, Webpack, Gulp, AJAX, 
                                       Bootstrap, MaterialUI, Tailwind
                                       ----------------------------------------------------------
