@@ -54,7 +54,7 @@
                                       ----------------------------------------------------------
                       Hobbies:        Coding(Building Stuff), Movies, Thinking, Reading, Gaming
                                       ----------------------------------------------------------
-                      Near Future:    I plan to learn Kotlin & Swift
+                      Near Future:    I plan to learn Kotlin & Swift ⇢ Just for the fun of it 😎
                                       ----------------------------------------------------------
                                       
                                       
