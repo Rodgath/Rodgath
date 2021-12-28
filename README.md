@@ -35,27 +35,27 @@
                                           
                                           
                         Front-end:      HTML5, CSS3, SCSS, Less, PostCSS, JavaScript, TypeScript, 
-                                       jQuery, React, Vue, Svelt, NextJS, Webpack, Gulp, AJAX, 
-                                       Bootstrap, MaterialUI, Tailwind, Bulma
-                                       ----------------------------------------------------------
+                                        jQuery, React, Vue, Svelt, NextJS, Webpack, Gulp, AJAX, 
+                                        Bootstrap, MaterialUI, Tailwind, Bulma
+                                        ----------------------------------------------------------
                         Back-end:       PHP, NodeJS, ExpressJS, npm, Composer, RESTful API, 
-                                       OAuth API, JWT, GraphQL, PassportJS
-                                       ----------------------------------------------------------
+                                        OAuth API, JWT, GraphQL, PassportJS
+                                        ----------------------------------------------------------
                         Database:       MySQL, SQLite, MongoDB
-                                       ----------------------------------------------------------
+                                        ----------------------------------------------------------
                         DevOps:         CI/CD, Git, Travis CI, CircleCI, GitHub Actions, Docker, 
-                                       Kubernetes, AWS, NGINX, Apache, TDD(Mocha, PHPUnit)
-                                       ----------------------------------------------------------
+                                        Kubernetes, AWS, NGINX, Apache, TDD(Mocha, PHPUnit)
+                                        ----------------------------------------------------------
                         Dev/Design:     VSCode, Lunacy, Photoshop, Figma
-                                       ----------------------------------------------------------
+                                        ----------------------------------------------------------
                         Connect:        Trello, ClickUp, Slack
-                                       ----------------------------------------------------------
+                                        ----------------------------------------------------------
                         Frameworks/CMS: Twig, Laravel, Gatsby, Strapi, Sapper, WordPress, OpenCart
-                                       ----------------------------------------------------------
+                                        ----------------------------------------------------------
                         Hobbies:        Coding(Building Stuff), Movies, Thinking, Reading, Gaming
-                                       ----------------------------------------------------------
+                                        ----------------------------------------------------------
                         Near Future:    I plan to learn Kotlin & Swift ⇢ Just for the fun of it 😎
-                                       ----------------------------------------------------------
+                                        ----------------------------------------------------------
                                     
                                        
                                       
