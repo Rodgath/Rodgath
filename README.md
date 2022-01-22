@@ -35,7 +35,7 @@
                                        
                                        
                         Front-end:      HTML5, CSS3, SCSS, Less, PostCSS, JavaScript, TypeScript, 
-                                        jQuery, React, Vue, Svelt, Webpack, Gulp, AJAX, Bulma
+                                        jQuery, React, Vue, Svelt, Webpack, Gulp, AJAX, Bulma,
                                         Bootstrap, MaterialUI, Tailwind
                                         ----------------------------------------------------------
                         Back-end:       PHP, NodeJS, ExpressJS, npm, Composer, RESTful API, 
