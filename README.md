@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rodgath/">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%237EE787&size=28&duration=2500&center=true&vCenter=true&lines=Full+Stack+Developer;-+Subcontractor+-;-+Consultant+-;-+Entrepreneur+-;15%2B+years+experience;Feel+free+to+contact+me;contact%40rodgath.com" alt="Rodgath stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%237EE787&size=28&duration=2500&center=true&vCenter=true&lines=Full+Stack+Developer;-+Subcontractor+-;-+Consultant+-;-+Entrepreneur+-;15%2B+years+experience;Feel+free+to+contact+me;contact%40rodgath.com" alt="Rodgath specs" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://github.com/Rodgath/">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rodgath&bg_color=282828&color=8ec07c&line=fe8019&point=fabd2f&hide_border=true" alt="Rodgath stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rodgath&bg_color=282828&color=8ec07c&line=fe8019&point=fabd2f&hide_border=true" alt="Rodgath's graph" />
   </a>
 </p>
 
