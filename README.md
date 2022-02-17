@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Rodgath/">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%237EE787&size=28&duration=2500&center=true&vCenter=true&lines=Full+Stack+Developer;-+Subcontractor+-;-+Consultant+-;-+Entrepreneur+-;15%2B+years+experience;Feel+free+to+contact+me;contact%40rodgath.com" alt="Rodgath stats" />
+  </a>
+</p>
+
 ```yaml
 
                    ▄████████  ▄██████▄  ████████▄     ▄██████▄     ▄████████     ███        ▄█    █▄    
