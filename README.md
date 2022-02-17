@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/Rodgath/">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rodgath&theme=chartreuse-dark" alt="Rodgath stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rodgath&bg_color=282828&color=8ec07c&line=fe8019&point=fabd2f&hide_border=true" alt="Rodgath stats" />
   </a>
 </p>
 
