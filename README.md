@@ -66,10 +66,19 @@
 <h3 align="center">:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: My Stats :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: </h3>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rodgath&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Rodgath stats" />
+  <a href="https://github.com/Rodgath/">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rodgath&theme=gruvbox&hide_border=true&date_format=%5BY%20%5DM%20j" alt="Rodgath stats" />
+  </a>
 </p>
 
 <!--
+<p align="center">
+  <a href="https://github.com/Rodgath/">
+ <img src="https://github-readme-stats.vercel.app/api?username=rodgath&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true&hide_title=true" alt="rodgath" />
+    </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rodgath</h1>
 <h3 align="center">Welcome to my profile.</h3>
 
