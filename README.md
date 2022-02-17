@@ -63,10 +63,11 @@
 ```
 
 
-<h3>:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: My Stats :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: </h3>
+<h3 align="center">:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: My Stats :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodgath&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rodgath&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Rodgath stats" />
+</p>
 
 <!--
 <h1 align="center">Hi 👋, I'm Rodgath</h1>
