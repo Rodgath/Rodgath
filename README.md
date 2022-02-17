@@ -63,6 +63,11 @@
 ```
 
 
+<h3>:fire: :fire: :fire: :fire: :fire: :fire: :fire: My Stats :fire: :fire: :fire: :fire: :fire: :fire: :fire: </h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodgath&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <!--
 <h1 align="center">Hi 👋, I'm Rodgath</h1>
 <h3 align="center">Welcome to my profile.</h3>
