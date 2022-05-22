@@ -4,6 +4,12 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rodgath/Rodgath/master/tdr.png" alt="Rodgath's description" />
+</p>
+
+<!--
 ```yaml
 
                    ▄████████  ▄██████▄  ████████▄     ▄██████▄     ▄████████     ███        ▄█    █▄    
@@ -67,7 +73,7 @@
                                     
                                     
 ```
-
+-->
 
 <h3 align="center">:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: My Stats :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: </h3>
 
