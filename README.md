@@ -6,10 +6,11 @@
 </p>
 -->
 
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rodgath/Rodgath/master/tdr.png" alt="Rodgath's description" />
 </p>
+-->
 
 <!--
 ```yaml
