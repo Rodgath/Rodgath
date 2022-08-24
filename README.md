@@ -6,9 +6,11 @@
 </p>
 -->
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rodgath/Rodgath/master/tdr.png" alt="Rodgath's description" />
 </p>
+-->
 
 <!--
 ```yaml
@@ -78,6 +80,8 @@
 <!--
 <h3 align="center">:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: My Stats :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: </h3>
 -->
+
+<!--
 <p align="center">
   <a href="https://github.com/Rodgath/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Rodgath&theme=gruvbox&hide_border=true&date_format=%5BY%20%5DM%20j" alt="Rodgath stats" />
@@ -89,7 +93,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Rodgath&bg_color=282828&color=8ec07c&line=fe8019&point=fabd2f&hide_border=true" alt="Rodgath's graph" />
   </a>
 </p>
-
+-->
 
 <!--
 <p align="center">
